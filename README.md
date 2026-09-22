@@ -8,6 +8,11 @@
 <p align="justify">
 Description of each app: 
 </p>
+
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+    <iframe src="https://arvpinto.github.io/scientista_apps/benchmark-log.html" width="800" height="500"></iframe>
+</div>
+
 <pre style="color: white; background-color: black;">
 # opt=modredundant b3lyp/6-31g(d,p) scf=tight
 
